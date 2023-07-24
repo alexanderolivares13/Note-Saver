@@ -1,16 +1,1 @@
-[
-    {
-        "title": "Test Title",
-        "text": "Test text"
-    },
-    {
-        "title": "New Note",
-        "text": "New text",
-        "toDo_id": "8ee92592-ecab-401a-ac29-b53944988b13"
-    },
-    {
-        "title": "asdf",
-        "text": "asdf",
-        "toDo_id": "733ff9a9-ca37-4ebe-8c05-7d2baa74334f"
-    }
-]
+[{"title":"sasdf","text":"asdfasdf","id":"448dbd72-c097-4429-abb6-6cb5d2820765"},{"title":"sdvasdva","text":"advasdvasdv","id":"9497a75d-1262-445a-bd5d-c09de60acdf9"},{"title":"A new thing","text":"New text again","id":"a1dc3458-bc5f-4cb1-be38-e0d73a54a233"}]
