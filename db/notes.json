@@ -1,1 +1,7 @@
-[{"title":"sasdf","text":"asdfasdf","id":"448dbd72-c097-4429-abb6-6cb5d2820765"},{"title":"sdvasdva","text":"advasdvasdv","id":"9497a75d-1262-445a-bd5d-c09de60acdf9"},{"title":"A new thing","text":"New text again","id":"a1dc3458-bc5f-4cb1-be38-e0d73a54a233"}]
+[
+    {
+        "title": "A new thing",
+        "text": "New text again",
+        "id": "a1dc3458-bc5f-4cb1-be38-e0d73a54a233"
+    }
+]
